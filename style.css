@@ -43,6 +43,7 @@ body{
     align-items: center;
     justify-content: space-between;
     gap: 32px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .apresentacao__links_link {
@@ -59,4 +60,8 @@ body{
     text-decoration: none;
     color:#22d4fd;
     font-family: 'Montserrat', sans-serif;
+}
+.apresentacao__links_link:hover{
+    background-color:#22d4fd;
+    color: #000000;
 }
